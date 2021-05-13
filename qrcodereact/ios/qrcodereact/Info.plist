@@ -52,18 +52,18 @@
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
 	<key>NSCameraUsageDescription</key>
-<string>Your message to user when the camera is accessed for the first time</string>
+<string>We need your permission to use the camera, for reading only.</string>
 
 <!-- Required with iOS 11 and higher: include this only if you are planning to use the camera roll -->
 <key>NSPhotoLibraryAddUsageDescription</key>
-<string>Your message to user when the photo library is accessed for the first time</string>
+<string>We need your permission to use the camera, for reading only.</string>
 
 <!-- Include this only if you are planning to use the camera roll -->
 <key>NSPhotoLibraryUsageDescription</key>
-<string>Your message to user when the photo library is accessed for the first time</string>
+<string>We need your permission to use the camera, for reading only.</string>
 
 <!-- Include this only if you are planning to use the microphone for video recording -->
 <key>NSMicrophoneUsageDescription</key>
-<string>Your message to user when the microphone is accessed for the first time</string>
+<string>We need your permission to use the microphone, we don't capture anything without your permission.</string>
 </dict>
 </plist>
